@@ -3,17 +3,40 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: You
-middle_name: R.
-last_name: Name
-email: you@example.com
+first_name: Mohammadreza
+middle_name:
+last_name: Amel Solouki
+email: mohammadreza.solouki@gamil.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+   
+  I am a Ph.D. graduate in Control and Computer Engineering from Politecnico di Torino, specializing in Design for Test (DFT), Fault Tolerance, and Reliability in embedded systems. My research focused on developing software solutions to enhance system reliability and functional safety (ISO 26262), particularly for automotive and industrial applications.
+
+-Developed Software-Implemented Hardware Fault Tolerance (SIHFT) methods for detecting Control Flow Errors (CFEs) caused by Random Hardware Failures (RHFs) in embedded systems.
+-Integrated CFE detection techniques into model-based software design, improving real-time execution efficiency.
+-Proposed a classification scheme for permanent hardware faults to aid in ISO 26262 compliance.
+
+I hold an M.Sc. in Computer Engineering from Qazvin Islamic Azad University, where I researched the impact of process variations on Phase Change Memory (PCM) systems and proposed mitigation strategies. My B.Sc. in Computer Engineering from Islamic Azad University of Mashhad involved investigating challenges in VoIP services and protocol design.
+
+Technical Skills:
+Programming Languages: C/C++, MATLAB
+Hardware Description Language: Verilog HDL
+
+Professional Interests:
+Design for Test (DFT) 
+Fault Tolerance & Reliability Engineering
+Functional Safety (ISO 26262) Compliance
+Dependable Embedded Systems
+Software Testing & Verification
+
+I am committed to advancing DFT methodologies to improve the reliability and safety of embedded systems in the automotive and semiconductor sectors.
+  
+  
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords:Ph.D. in Control & Computer Engineering | Fault Tolerance & Reliability | Functional Safety (ISO 26262) | Design for Test (DFT) & Embedded Systems #jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
