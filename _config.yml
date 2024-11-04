@@ -3,46 +3,23 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Mohammadreza
-middle_name:
+first_name: Mohammadreza 
+middle_name: 
 last_name: Amel Solouki
-email: mohammadreza.solouki@gamil.com
+email: mohammadreza.solouki@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
-   
-  I am a Ph.D. graduate in Control and Computer Engineering from Politecnico di Torino, specializing in Design for Test (DFT), Fault Tolerance, and Reliability in embedded systems. My research focused on developing software solutions to enhance system reliability and functional safety (ISO 26262), particularly for automotive and industrial applications.
-
--Developed Software-Implemented Hardware Fault Tolerance (SIHFT) methods for detecting Control Flow Errors (CFEs) caused by Random Hardware Failures (RHFs) in embedded systems.
--Integrated CFE detection techniques into model-based software design, improving real-time execution efficiency.
--Proposed a classification scheme for permanent hardware faults to aid in ISO 26262 compliance.
-
-I hold an M.Sc. in Computer Engineering from Qazvin Islamic Azad University, where I researched the impact of process variations on Phase Change Memory (PCM) systems and proposed mitigation strategies. My B.Sc. in Computer Engineering from Islamic Azad University of Mashhad involved investigating challenges in VoIP services and protocol design.
-
-Technical Skills:
-Programming Languages: C/C++, MATLAB
-Hardware Description Language: Verilog HDL
-
-Professional Interests:
-Design for Test (DFT) 
-Fault Tolerance & Reliability Engineering
-Functional Safety (ISO 26262) Compliance
-Dependable Embedded Systems
-Software Testing & Verification
-
-I am committed to advancing DFT methodologies to improve the reliability and safety of embedded systems in the automotive and semiconductor sectors.
-  
-  
+  TODO
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords:Ph.D. in Control & Computer Engineering | Fault Tolerance & Reliability | Functional Safety (ISO 26262) | Design for Test (DFT) & Embedded Systems #jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+  <!--Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.-->
+keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://solouki.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
-last_updated: false # set to true if you want to display last updated in the footer
+last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
 
@@ -54,7 +31,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -64,7 +41,7 @@ repo_trophies:
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -72,7 +49,7 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 bib_search: true
 
@@ -101,26 +78,26 @@ dblp_url: # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
 facebook_id: # your facebook id
 flickr_id: # your flickr id
-github_username: # your GitHub user name
+github_username:  # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
 lastfm_id: # your lastfm id
 lattes_id: # your ID on Lattes (Brazilian Lattes CV)
-linkedin_username: # your LinkedIn user name
+linkedin_username: mohammadreza-amel-solouki/ # your LinkedIn user name
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 medium_username: # your Medium username
-orcid_id: # your ORCID ID
+orcid_id: mohammadreza-amel-solouki/# your ORCID ID
 osf_id: # your OSF ID
 pinterest_id: # your pinterest id
 publons_id: # your ID on Publons
 quora_username: # your Quora username
 research_gate_profile: # your profile on ResearchGate
-scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
-scopus_id: # your profile on Scopus
+scholar_userid: Zp0VHcUAAAAJ # your Google Scholar ID
+scopus_id:  # your profile on Scopus
 semanticscholar_id: # your Semantic Scholar ID
 spotify_id: # your spotify id
 stackoverflow_id: # your stackoverflow id
@@ -130,13 +107,12 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: MSolouki # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -144,12 +120,12 @@ contact_note: >
 
 # For Google Analytics, see https://support.google.com/analytics/answer/10447272?hl=en&ref_topic=14088998&sjid=5129943941510317771-SA#zippy=%2Cgoogle-sites
 # and follow the instructions for Google Sites. You will need to create a Google Analytics property and copy the Google tag ID.
-google_analytics: # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics:  # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
-google_site_verification: # your google-site-verification ID (Google Search Console)
+google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 
 # -----------------------------------------------------------------------------
@@ -228,7 +204,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 
@@ -267,6 +243,12 @@ exclude:
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/profiles.md
+  - _pages/projects.md
+  - _pages/blog.md
+  - _pages/cv.md
+  - _pages/teaching.md
+  - _pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -336,8 +318,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Amel Solouki]
+  first_name: [Mohammadreza]
 
   style: apa
   locale: en
@@ -448,16 +430,16 @@ lazy_loading_images: true # enables lazy loading of images (recommended)
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics: false # enables google analytics
+enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
-enable_google_verification: false # enables google site verification
+enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
 enable_math: true # enables math typesetting (uses MathJax)
 enable_tooltips: false # enables automatic tooltip links generated for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
-enable_navbar_social: false # enables displaying social links in the navbar on the about page
+enable_navbar_social: true # enables displaying social links in the navbar on the about page
 enable_project_categories: true # enables categorization of projects into multiple categories
 enable_medium_zoom: true # enables image zoom feature (as on medium.com)
 enable_progressbar: true # enables a horizontal progress bar linked to the vertical scroll position
@@ -670,30 +652,3 @@ jsonresume:
   - languages
   - interests
   - references
-title: "Mohammadreza Amel Solouki"
-description: "I am a Ph.D. graduate in Control and Computer Engineering from Politecnico di Torino, specializing in Design for Test (DFT), Fault Tolerance, and Reliability in embedded systems. My research focused on developing software solutions to enhance system reliability and functional safety (ISO 26262), particularly for automotive and industrial applications.
-
--Developed Software-Implemented Hardware Fault Tolerance (SIHFT) methods for detecting Control Flow Errors (CFEs) caused by Random Hardware Failures (RHFs) in embedded systems.
--Integrated CFE detection techniques into model-based software design, improving real-time execution efficiency.
--Proposed a classification scheme for permanent hardware faults to aid in ISO 26262 compliance.
-
-I hold an M.Sc. in Computer Engineering from Qazvin Islamic Azad University, where I researched the impact of process variations on Phase Change Memory (PCM) systems and proposed mitigation strategies. My B.Sc. in Computer Engineering from Islamic Azad University of Mashhad involved investigating challenges in VoIP services and protocol design.
-
-Technical Skills:
-Programming Languages: C/C++, MATLAB
-Hardware Description Language: Verilog HDL
-
-Professional Interests:
-Design for Test (DFT) 
-Fault Tolerance & Reliability Engineering
-Functional Safety (ISO 26262) Compliance
-Dependable Embedded Systems
-Software Testing & Verification
-
-I am committed to advancing DFT methodologies to improve the reliability and safety of embedded systems in the automotive and semiconductor sectors."
-# Social links (set to "" to disable any link)
-twitter_username: "MSolouki"
-linkedin_username: "https://www.linkedin.com/in/mohammadreza-amel-solouki/"
-
-
-
