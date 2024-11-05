@@ -1,5 +1,5 @@
-#github_users:
-#  - torvalds
+github_users:
+  - maz-s
  # - alshedivat
 
 #repo_description_lines_max: 2
