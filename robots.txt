@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://maz-s.github.io/solouki.github.io/sitemap.xml
+Sitemap: https://m-solouki.github.io/sitemap.xml
