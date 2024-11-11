@@ -1,6 +1,12 @@
+#<<<<<<< HEAD
 #github_users:
 #  - torvalds
 #  - alshedivat
+=======
+github_users:
+  - maz-s
+ # - alshedivat
+#>>>>>>> f578289a66f000e2835b2044203e8b06614e65ca
 
 #repo_description_lines_max: 2
 
