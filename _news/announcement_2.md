@@ -3,6 +3,7 @@ layout: post
 title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
 inline: false
+published: false # <--- ADD THIS LINE TO HIDE IT
 related_posts: false
 ---
 
